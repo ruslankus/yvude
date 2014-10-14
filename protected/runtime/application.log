@@ -4140,3 +4140,1281 @@ Stack trace:
 REQUEST_URI=/fonts/casper_bold.ttf
 HTTP_REFERER=http://yvude.local/css/style.css
 ---
+2014/10/14 16:03:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:03:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:04:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:05:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "2.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('2.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/2.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "2.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('2.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/2.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "5.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('5.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/5.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:05:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "6.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('6.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/6.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "5.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('5.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/5.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:06:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper_bold.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper_bo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper_bold.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:06:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
+2014/10/14 16:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff2".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff2
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.svg".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.sv...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.svg
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:08:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:08:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:08:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:08:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:08:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "5.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('5.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/5.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:09:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "6.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('6.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/6.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:09:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "6.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('6.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/6.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:09:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.woff".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.wo...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.woff
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:09:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/casper.ttf".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/casper.tt...')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fonts/casper.ttf
+HTTP_REFERER=http://yvude.local/css/style.css
+---
+2014/10/14 16:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:10:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "3.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('3.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/3.html
+HTTP_REFERER=http://yvude.local/page/link/3
+---
+2014/10/14 16:10:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "4.html".' in C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\yvude.local\framework\web\CWebApplication.php(141): CWebApplication->runController('4.html')
+#1 C:\OpenServer\domains\yvude.local\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\yvude.local\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/4.html
+HTTP_REFERER=http://yvude.local/page/link/4
+---
