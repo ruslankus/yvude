@@ -1,0 +1,15 @@
+#main-content > div > .row {
+	position:relative;}
+	
+.top-block {
+	height:100%;
+	display:block;
+	position:absolute;
+	color:white;
+	top:-100%;
+	background-color:white;}
+	
+.felt {
+	z-index:10;
+	top: 0;
+	transition: 400ms;}			

@@ -1,59 +1,74 @@
 <?php /* @var $this Controller */ ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!doctype html>
+<html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="language" content="en" />
-
-	<!-- blueprint CSS framework -->
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
-	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
-	<![endif]-->
-
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
-
-	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl;?>/css/owl.carousel.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" />
+<link  media="screen and (min-width:992px) and (max-width:2500px)" rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/nanoscroller.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/navigation.css" />
+<title>Untitled Document</title>
 </head>
 
 <body>
+<header class="clearfix">
+    <div class="logo-holder clearfix"><a href="/"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/logo.svg" width="92" height="36" ></a></div>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-meniu-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div><!--/navbar-header -->
+        
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-meniu-navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/page/link/2" data-link="2">about</a></li>
+                    <li><a href="/page/link/3" data-link="3">news</a></li>
+                    <li><a href="/page/link/4" data-link="4">products</a></li>
+                    <li><a href="/page/link/5" data-link="5">logistic</a></li>
+                    <li><a href="/page/link/6" data-link="6">contacts</a></li>
+                </ul><!--/navbar-nav -->
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
 
-<div class="container" id="page">
+</header>
 
-	<div id="header">
-		<div id="logo"><?php echo CHtml::encode(Yii::app()->name); ?></div>
-	</div><!-- header -->
-
-	<div id="mainmenu">
-		<?php $this->widget('zii.widgets.CMenu',array(
-			'items'=>array(
-				array('label'=>'Home', 'url'=>array('/site/index')),
-				array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-				array('label'=>'Contact', 'url'=>array('/site/contact')),
-				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
-				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
-			),
-		)); ?>
-	</div><!-- mainmenu -->
-	<?php if(isset($this->breadcrumbs)):?>
-		<?php $this->widget('zii.widgets.CBreadcrumbs', array(
-			'links'=>$this->breadcrumbs,
-		)); ?><!-- breadcrumbs -->
-	<?php endif?>
-
-	<?php echo $content; ?>
-
-	<div class="clear"></div>
-
-	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
-		All Rights Reserved.<br/>
-		<?php echo Yii::powered(); ?>
-	</div><!-- footer -->
-
-</div><!-- page -->
+<div class="wrapper clearfix">
+    <section id="main-content">
+    	<div class="container-fluid">
+			<div class="row">
+            	<div class="col-xs-12 top-block">
+                
+                
+                	
+                </div><!--/top-block -->
+                
+                <div class="col-xs-12 bottom-block">
+                	<?php echo $content; ?>
+                </div><!--/bottom-block-->
+            </div><!--/row -->
+        </div><!--/cintainer -fluid -->
+    </section>
+    <div id="push"></div>
+</div><!--/ wrapper -->
+<footer>
+	<div class="copy-holder"><span>&copy;&nbsp;<?php echo date('Y'); ?>&nbsp;Vudimeksus. </span><span>Made by&nbsp;<a href="#">inlusion</a></span></div>
+</footer>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery-1.9.0.min.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/bootstrap.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery.nanoscroller.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/owl.carousel.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/js/nav.js"></script>
 
 </body>
 </html>
