@@ -1,27 +1,16 @@
 $(document).ready(function(e) {
+	var breakpoint = 991;
+	viewportWidth = window.innerWidth;
+	
+	if (viewportWidth > breakpoint){
 
+		$('.nav li a').click(function(e) {
+			var link_number = $(this).data('link');
+			navigation(link_number); 
+			return false
+		});
+	}
 	
-
-	$('.nav li a').click(function(e) {
-		var link_number = $(this).data('link');
-		navigation(link_number); 
-		return false
-    });
-	
-	$(document).on('change','.bottom-block',function(){
-		console.log('test');
-		var breakpoint = 991;
-		viewportWidth = window.innerWidth;
-		
-		if (viewportWidth > breakpoint){
-			$(".nano").nanoScroller();
-		}
-		
-	});
-	
-	$('.top-block').change(function(e) {
-    	console.log('test');    
-    });
     
 });
 
